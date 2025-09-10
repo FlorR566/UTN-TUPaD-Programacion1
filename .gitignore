@@ -1,0 +1,12 @@
+# Archivos de configuración de Mac
+.DS_Store
+
+# Carpeta de dependencias de Node.js
+node_modules/
+
+# Archivos de log generados por el sistema
+*.log
+
+# Archivos de desarrollo
+.env
+*.zip
