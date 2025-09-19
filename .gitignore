@@ -7,6 +7,13 @@ node_modules/
 # Archivos de log generados por el sistema
 *.log
 
-# Archivos de desarrollo
+# Variables de entorno
 .env
+
+# Archivos comprimidos
 *.zip
+
+# Ignorar solo JSON locales
+*.local.json
+
+
